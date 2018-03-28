@@ -1,0 +1,10 @@
+tensorflow==1.2.0
+scipy==1.0.0
+scikit-learn==0.19.1
+opencv-python==3.4.0.12
+h5py==2.7.1
+matplotlib==2.2.0
+Pillow==5.0.0
+requests==2.18.4
+psutil==5.4.3
+flask-restplus==0.10.1
